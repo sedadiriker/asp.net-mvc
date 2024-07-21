@@ -1,26 +1,41 @@
 ﻿<!DOCTYPE html>
-<html lang="en">
+<html lang="zxx">
+
 @{
     await Html.RenderPartialAsync("_Head");
 }
 
 <body>
+    <!-- Page Preloder -->
+    @{
+        await Html.RenderPartialAsync("_PreLoader");
+    }
+
+    <!-- Header Section Begin -->
     @{
         await Html.RenderPartialAsync("_Header");
     }
-    <div class="container">
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
-    </div>
+    <!-- Header End -->
 
+    @RenderBody()
+
+    <!-- Partner Logo Section Begin -->
+   @{
+        await Html.RenderPartialAsync("_PartnerLogo");
+    }
+    <!-- Partner Logo Section End -->
+
+    <!-- Footer Section Begin -->
     @{
         await Html.RenderPartialAsync("_Footer");
-        await Html.RenderPartialAsync("_Scripts");
+    }
+    <!-- Footer Section End -->
 
+    <!-- Js Plugins -->
+    @{
+        await Html.RenderPartialAsync("_Scripts");
     }
 
-    @RenderSectionAsync("Scripts", required: false)
 </body>
 
 </html>

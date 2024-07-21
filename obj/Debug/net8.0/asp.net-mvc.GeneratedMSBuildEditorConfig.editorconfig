@@ -42,6 +42,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19IZWFkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/sedadiriker/Desktop/asp.net-mvc/Views/Shared/_PartnerLogo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19QYXJ0bmVyTG9nby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sedadiriker/Desktop/asp.net-mvc/Views/Shared/_PreLoader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19QcmVMb2FkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/sedadiriker/Desktop/asp.net-mvc/Views/Shared/_Scripts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19TY3JpcHRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

@@ -5,12 +5,484 @@
       "PackagePath": "staticwebassets/asp.net-mvc.bundle.scp.css"
     },
     {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/blog-details.html",
+      "PackagePath": "staticwebassets/blog-details.html"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/blog.html",
+      "PackagePath": "staticwebassets/blog.html"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/check-out.html",
+      "PackagePath": "staticwebassets/check-out.html"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/contact.html",
+      "PackagePath": "staticwebassets/contact.html"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/css/elegant-icons.css",
+      "PackagePath": "staticwebassets/css/elegant-icons.css"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/css/font-awesome.min.css",
+      "PackagePath": "staticwebassets/css/font-awesome.min.css"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/css/jquery-ui.min.css",
+      "PackagePath": "staticwebassets/css/jquery-ui.min.css"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/css/nice-select.css",
+      "PackagePath": "staticwebassets/css/nice-select.css"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/css/owl.carousel.min.css",
+      "PackagePath": "staticwebassets/css/owl.carousel.min.css"
+    },
+    {
       "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
-      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/favicon.ico",
-      "PackagePath": "staticwebassets/favicon.ico"
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/css/slicknav.min.css",
+      "PackagePath": "staticwebassets/css/slicknav.min.css"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/css/themify-icons.css",
+      "PackagePath": "staticwebassets/css/themify-icons.css"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/faq.html",
+      "PackagePath": "staticwebassets/faq.html"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/fonts/ElegantIcons.eot",
+      "PackagePath": "staticwebassets/fonts/ElegantIcons.eot"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/fonts/ElegantIcons.svg",
+      "PackagePath": "staticwebassets/fonts/ElegantIcons.svg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/fonts/ElegantIcons.ttf",
+      "PackagePath": "staticwebassets/fonts/ElegantIcons.ttf"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/fonts/ElegantIcons.woff",
+      "PackagePath": "staticwebassets/fonts/ElegantIcons.woff"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/fonts/FontAwesome.otf",
+      "PackagePath": "staticwebassets/fonts/FontAwesome.otf"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/fonts/fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont.eot"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/fonts/fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont.svg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/fonts/fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/fonts/fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont.woff"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/fonts/fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/fonts/themify.eot",
+      "PackagePath": "staticwebassets/fonts/themify.eot"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/fonts/themify.svg",
+      "PackagePath": "staticwebassets/fonts/themify.svg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/fonts/themify.ttf",
+      "PackagePath": "staticwebassets/fonts/themify.ttf"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/fonts/themify.woff",
+      "PackagePath": "staticwebassets/fonts/themify.woff"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/banner-1.jpg",
+      "PackagePath": "staticwebassets/img/banner-1.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/banner-2.jpg",
+      "PackagePath": "staticwebassets/img/banner-2.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/banner-3.jpg",
+      "PackagePath": "staticwebassets/img/banner-3.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/blog/blog-1.jpg",
+      "PackagePath": "staticwebassets/img/blog/blog-1.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/blog/blog-2.jpg",
+      "PackagePath": "staticwebassets/img/blog/blog-2.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/blog/blog-3.jpg",
+      "PackagePath": "staticwebassets/img/blog/blog-3.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/blog/blog-4.jpg",
+      "PackagePath": "staticwebassets/img/blog/blog-4.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/blog/blog-5.jpg",
+      "PackagePath": "staticwebassets/img/blog/blog-5.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/blog/blog-6.jpg",
+      "PackagePath": "staticwebassets/img/blog/blog-6.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/blog/blog-detail-1.jpg",
+      "PackagePath": "staticwebassets/img/blog/blog-detail-1.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/blog/blog-detail-2.jpg",
+      "PackagePath": "staticwebassets/img/blog/blog-detail-2.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/blog/blog-detail-3.jpg",
+      "PackagePath": "staticwebassets/img/blog/blog-detail-3.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/blog/blog-detail.jpg",
+      "PackagePath": "staticwebassets/img/blog/blog-detail.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/blog/next-blog.png",
+      "PackagePath": "staticwebassets/img/blog/next-blog.png"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/blog/post-by.png",
+      "PackagePath": "staticwebassets/img/blog/post-by.png"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/blog/prev-blog.png",
+      "PackagePath": "staticwebassets/img/blog/prev-blog.png"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/blog/recent-1.jpg",
+      "PackagePath": "staticwebassets/img/blog/recent-1.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/blog/recent-2.jpg",
+      "PackagePath": "staticwebassets/img/blog/recent-2.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/blog/recent-3.jpg",
+      "PackagePath": "staticwebassets/img/blog/recent-3.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/blog/recent-4.jpg",
+      "PackagePath": "staticwebassets/img/blog/recent-4.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/cart-page/product-1.jpg",
+      "PackagePath": "staticwebassets/img/cart-page/product-1.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/cart-page/product-2.jpg",
+      "PackagePath": "staticwebassets/img/cart-page/product-2.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/cart-page/product-3.jpg",
+      "PackagePath": "staticwebassets/img/cart-page/product-3.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/flag-1.jpg",
+      "PackagePath": "staticwebassets/img/flag-1.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/flag-2.jpg",
+      "PackagePath": "staticwebassets/img/flag-2.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/footer-logo.png",
+      "PackagePath": "staticwebassets/img/footer-logo.png"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/hero-1.jpg",
+      "PackagePath": "staticwebassets/img/hero-1.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/hero-2.jpg",
+      "PackagePath": "staticwebassets/img/hero-2.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/hero-3.jpg",
+      "PackagePath": "staticwebassets/img/hero-3.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/icon-1.png",
+      "PackagePath": "staticwebassets/img/icon-1.png"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/icon-2.png",
+      "PackagePath": "staticwebassets/img/icon-2.png"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/icon-3.png",
+      "PackagePath": "staticwebassets/img/icon-3.png"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/insta-1.jpg",
+      "PackagePath": "staticwebassets/img/insta-1.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/insta-2.jpg",
+      "PackagePath": "staticwebassets/img/insta-2.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/insta-3.jpg",
+      "PackagePath": "staticwebassets/img/insta-3.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/insta-4.jpg",
+      "PackagePath": "staticwebassets/img/insta-4.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/insta-5.jpg",
+      "PackagePath": "staticwebassets/img/insta-5.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/insta-6.jpg",
+      "PackagePath": "staticwebassets/img/insta-6.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/latest-1.jpg",
+      "PackagePath": "staticwebassets/img/latest-1.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/latest-2.jpg",
+      "PackagePath": "staticwebassets/img/latest-2.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/latest-3.jpg",
+      "PackagePath": "staticwebassets/img/latest-3.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/logo-carousel/logo-1.png",
+      "PackagePath": "staticwebassets/img/logo-carousel/logo-1.png"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/logo-carousel/logo-2.png",
+      "PackagePath": "staticwebassets/img/logo-carousel/logo-2.png"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/logo-carousel/logo-3.png",
+      "PackagePath": "staticwebassets/img/logo-carousel/logo-3.png"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/logo-carousel/logo-4.png",
+      "PackagePath": "staticwebassets/img/logo-carousel/logo-4.png"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/logo-carousel/logo-5.png",
+      "PackagePath": "staticwebassets/img/logo-carousel/logo-5.png"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/logo.png",
+      "PackagePath": "staticwebassets/img/logo.png"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/payment-method.png",
+      "PackagePath": "staticwebassets/img/payment-method.png"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/product-single/avatar-1.png",
+      "PackagePath": "staticwebassets/img/product-single/avatar-1.png"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/product-single/avatar-2.png",
+      "PackagePath": "staticwebassets/img/product-single/avatar-2.png"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/product-single/product-1.jpg",
+      "PackagePath": "staticwebassets/img/product-single/product-1.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/product-single/product-2.jpg",
+      "PackagePath": "staticwebassets/img/product-single/product-2.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/product-single/product-3.jpg",
+      "PackagePath": "staticwebassets/img/product-single/product-3.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/product-single/tab-desc.jpg",
+      "PackagePath": "staticwebassets/img/product-single/tab-desc.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/product-single/thumb-1.jpg",
+      "PackagePath": "staticwebassets/img/product-single/thumb-1.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/product-single/thumb-2.jpg",
+      "PackagePath": "staticwebassets/img/product-single/thumb-2.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/product-single/thumb-3.jpg",
+      "PackagePath": "staticwebassets/img/product-single/thumb-3.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/products/man-1.jpg",
+      "PackagePath": "staticwebassets/img/products/man-1.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/products/man-2.jpg",
+      "PackagePath": "staticwebassets/img/products/man-2.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/products/man-3.jpg",
+      "PackagePath": "staticwebassets/img/products/man-3.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/products/man-4.jpg",
+      "PackagePath": "staticwebassets/img/products/man-4.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/products/man-large.jpg",
+      "PackagePath": "staticwebassets/img/products/man-large.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/products/product-1.jpg",
+      "PackagePath": "staticwebassets/img/products/product-1.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/products/product-2.jpg",
+      "PackagePath": "staticwebassets/img/products/product-2.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/products/product-3.jpg",
+      "PackagePath": "staticwebassets/img/products/product-3.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/products/product-4.jpg",
+      "PackagePath": "staticwebassets/img/products/product-4.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/products/product-5.jpg",
+      "PackagePath": "staticwebassets/img/products/product-5.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/products/product-6.jpg",
+      "PackagePath": "staticwebassets/img/products/product-6.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/products/product-7.jpg",
+      "PackagePath": "staticwebassets/img/products/product-7.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/products/product-8.jpg",
+      "PackagePath": "staticwebassets/img/products/product-8.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/products/product-9.jpg",
+      "PackagePath": "staticwebassets/img/products/product-9.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/products/women-1.jpg",
+      "PackagePath": "staticwebassets/img/products/women-1.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/products/women-2.jpg",
+      "PackagePath": "staticwebassets/img/products/women-2.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/products/women-3.jpg",
+      "PackagePath": "staticwebassets/img/products/women-3.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/products/women-4.jpg",
+      "PackagePath": "staticwebassets/img/products/women-4.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/products/women-large.jpg",
+      "PackagePath": "staticwebassets/img/products/women-large.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/select-product-1.jpg",
+      "PackagePath": "staticwebassets/img/select-product-1.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/select-product-2.jpg",
+      "PackagePath": "staticwebassets/img/select-product-2.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/img/time-bg.jpg",
+      "PackagePath": "staticwebassets/img/time-bg.jpg"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/js/imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets/js/imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/js/jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets/js/jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/js/jquery-ui.min.js",
+      "PackagePath": "staticwebassets/js/jquery-ui.min.js"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/js/jquery.countdown.min.js",
+      "PackagePath": "staticwebassets/js/jquery.countdown.min.js"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/js/jquery.dd.min.js",
+      "PackagePath": "staticwebassets/js/jquery.dd.min.js"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/js/jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets/js/jquery.nice-select.min.js"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/js/jquery.slicknav.js",
+      "PackagePath": "staticwebassets/js/jquery.slicknav.js"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/js/jquery.zoom.min.js",
+      "PackagePath": "staticwebassets/js/jquery.zoom.min.js"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/js/main.js",
+      "PackagePath": "staticwebassets/js/main.js"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/js/owl.carousel.min.js",
+      "PackagePath": "staticwebassets/js/owl.carousel.min.js"
     },
     {
       "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/js/site.js",
@@ -243,6 +715,34 @@
     {
       "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/lib/jquery/dist/jquery.min.map",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/login.html",
+      "PackagePath": "staticwebassets/login.html"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/main.html",
+      "PackagePath": "staticwebassets/main.html"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/product.html",
+      "PackagePath": "staticwebassets/product.html"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/readme.txt",
+      "PackagePath": "staticwebassets/readme.txt"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/register.html",
+      "PackagePath": "staticwebassets/register.html"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/shop.html",
+      "PackagePath": "staticwebassets/shop.html"
+    },
+    {
+      "Id": "/Users/sedadiriker/Desktop/asp.net-mvc/wwwroot/shopping-cart.html",
+      "PackagePath": "staticwebassets/shopping-cart.html"
     },
     {
       "Id": "obj/Debug/net8.0/staticwebassets/msbuild.asp.net-mvc.Microsoft.AspNetCore.StaticWebAssets.props",
