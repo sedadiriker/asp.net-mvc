@@ -17,8 +17,18 @@ public class HomeController : Controller
     {
         return View();
     }
-    [Route("/privacy")]
-    public IActionResult Privacy()
+    [Route("/shop")]
+    public IActionResult Shop()
+    {
+        return View();
+    }
+     [Route("/blog")]
+    public IActionResult Blog()
+    {
+        return View();
+    }
+     [Route("/contact")]
+    public IActionResult Contact()
     {
         return View();
     }
