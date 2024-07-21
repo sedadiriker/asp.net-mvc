@@ -1,12 +1,12 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
 @{
-    await Html.RenderPartialAsync("Head");
+    await Html.RenderPartialAsync("_Head");
 }
 
 <body>
     @{
-        await Html.RenderPartialAsync("Header");
+        await Html.RenderPartialAsync("_Header");
     }
     <div class="container">
         <main role="main" class="pb-3">
@@ -15,12 +15,12 @@
     </div>
 
     @{
-        await Html.RenderPartialAsync("Footer");
+        await Html.RenderPartialAsync("_Footer");
+        await Html.RenderPartialAsync("_Scripts");
+
     }
 
-    @{
-        await Html.RenderPartialAsync("Scripts");
-    }
+    @RenderSectionAsync("Scripts", required: false)
 </body>
 
 </html>
